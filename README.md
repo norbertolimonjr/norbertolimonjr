@@ -1,6 +1,6 @@
 ### About Me: 💻🥷🏽 
 
-ML engineer / Security Analyst looking to use: Data, Threat Intelligence, and Machine Learning for Threat Detection and Incident Response. 
+ML engineer / Security Analyst looking to leverage Data Analysis, Threat Intelligence, and Machine Learning for Threat Detection and Incident Response. 
 
 ### Mission Statement: 💼🦾 
 
