@@ -4,7 +4,7 @@ ML engineer / Security Analyst looking to leverage Data Analysis, Threat Intelli
 
 ### Mission Statement: 💼🦾 
 
-We live in a time of great technological transformation, introducing new capabilities in fields of Cloud, IIoT and AI. With this novelty comes hightened risks from various new attack vectors. Novel ways of handling these emerging threats must therefore also rise to meet these new challenges. 
+We live in a time of great technological transformation, introducing new capabilities in fields of Cloud, IIoT and AI. With this novelty comes hightened risks from various new attack vectors. Novel ways of handling these emerging threats must therefore also rise to meet these new challenges. Equally important to me is to ensure the efficient and effective use of data to supplement the acheivement of business objectives.
 
 ### What to Expect: 🤷🏽‍♂️🔮 
 
