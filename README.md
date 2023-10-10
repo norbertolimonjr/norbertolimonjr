@@ -8,7 +8,7 @@ We live in a time of great technological transformation, introducing new capabil
 
 ### What to Expect: 🤷🏽‍♂️🔮 
 
-**SecOps**, Personal Projects, **Threat Hunting** Walkthroughs, **Detection Engineering** Rulesets, Powershell Scripts, Security Configurations, Python scripting, and **Data Science** techinques for security such as Markov Chains for Fraud Detection, Reinforcement Learning for Anomaly Detection, Data Mining for **Threat Intel** and more.
+**Data Engineering**, **SecOps**, Personal Projects, **Threat Hunting** Walkthroughs, **Detection Engineering** Rulesets, Powershell Scripts, Security Configurations, Python scripting, and **Data Science** techinques for security such as Markov Chains for Fraud Detection, Reinforcement Learning for Anomaly Detection, Data Mining for **Threat Intel** and more.
 
 ### Collaboration: 👯🤝 
 
